@@ -20,5 +20,6 @@ Tähän alle laitan listan, mitä olen jo oppinut muunmuassa:
 Tässä toisella kurssillani tekemiäni juttuja:
 (https://mattilja88.github.io/Noppa/)
 
-
+### Tästä pääset alasivulle
+[Alasivu](./alasivu.md)
 
